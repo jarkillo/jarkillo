@@ -22,7 +22,8 @@ Soy un apasionado del marketing con formación en marketing e investigación de 
 ### 📊 Proyectos
 Estos son algunos de los proyectos en los que he trabajado:
 
-- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/) 
+- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
+- [Desarrollo en Python](https://github.com/jarkillo/Desarrollo-en-Python/)
 
 ¡Siéntete libre de explorar mis repositorios!
 

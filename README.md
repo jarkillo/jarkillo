@@ -22,6 +22,8 @@ Soy un apasionado del marketing con formación en marketing e investigación de 
 ### 📊 Proyectos
 Estos son algunos de los proyectos en los que he trabajado:
 
+- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/) 
+
 ¡Siéntete libre de explorar mis repositorios!
 
 ### 📫 Contáctame
@@ -54,6 +56,8 @@ I'm a passionate marketer with a background in marketing and market research, cu
 
 ### 📊 Projects
 Here are some of the projects I've worked on:
+
+- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/) 
 
 Feel free to explore my repositories!
 

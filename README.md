@@ -1,12 +1,3 @@
-
-
-<!<!DOCTYPE html>
-<html>
-<head>
-  <title>[Tu Nombre] - GitHub Profile</title>
-</head>
-<body>
- 
 # Jarkillo
 ## Marketing and Market Research Graduate | MBA & Data Analytics Double Master's Student
 
@@ -38,6 +29,3 @@ Feel free to explore my repositories!
 - Email: manuellopezonline@gmail.com
 
 Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or collaboration opportunities.
-
-</body>
-</html>

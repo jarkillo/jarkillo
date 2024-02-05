@@ -10,6 +10,14 @@ Soy un apasionado del marketing con formación en marketing e investigación de 
 - 📚 Actualmente estudiando un doble máster en MBA y Análisis de Datos en la Universidad Loyola.
 - 💼 Buscando activamente oportunidades en los campos del marketing, análisis de datos y ciencia de datos.
 
+### 📊 Proyectos
+Estos son algunos de los proyectos en los que he trabajado:
+
+- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
+- [Desarrollo en Python](https://github.com/jarkillo/Desarrollo-en-Python/)
+
+¡Siéntete libre de explorar mis repositorios!
+
 ### 🚀 Habilidades
 - Estrategia de Marketing
 - Análisis de Datos
@@ -18,14 +26,6 @@ Soy un apasionado del marketing con formación en marketing e investigación de 
 - Visualización de Datos
 - Python, R, SQL
 - Control de Versiones con GitHub
-
-### 📊 Proyectos
-Estos son algunos de los proyectos en los que he trabajado:
-
-- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
-- [Desarrollo en Python](https://github.com/jarkillo/Desarrollo-en-Python/)
-
-¡Siéntete libre de explorar mis repositorios!
 
 ### 📫 Contáctame
 - LinkedIn: [Manuel Lopez](https://www.linkedin.com/in/manuelinformatico/)
@@ -46,6 +46,14 @@ I'm a passionate marketer with a background in marketing and market research, cu
 - 📚 Currently studying MBA and Data Analytics at Loyola University.
 - 💼 Actively seeking opportunities in the marketing, data analytics, and data science fields.
 
+### 📊 Projects
+Here are some of the projects I've worked on:
+
+- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
+- [Python Development](https://github.com/jarkillo/Desarrollo-en-Python/)
+
+Feel free to explore my repositories!
+
 ### 🚀 Skills
 - Marketing Strategy
 - Data Analysis
@@ -54,14 +62,6 @@ I'm a passionate marketer with a background in marketing and market research, cu
 - Data Visualization
 - Python, R, SQL
 - GitHub Version Control
-
-### 📊 Projects
-Here are some of the projects I've worked on:
-
-- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
-- [Python Development](https://github.com/jarkillo/Desarrollo-en-Python/)
-
-Feel free to explore my repositories!
 
 ### 📫 Contact Me
 - LinkedIn: [Manuel Lopez](https://www.linkedin.com/in/manuelinformatico/)

@@ -58,7 +58,8 @@ I'm a passionate marketer with a background in marketing and market research, cu
 ### 📊 Projects
 Here are some of the projects I've worked on:
 
-- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/) 
+- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
+- [Python Development](https://github.com/jarkillo/Desarrollo-en-Python/)
 
 Feel free to explore my repositories!
 

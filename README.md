@@ -15,6 +15,9 @@ Estos son algunos de los proyectos en los que he trabajado:
 
 - [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
 - [Desarrollo en Python](https://github.com/jarkillo/Desarrollo-en-Python/)
+- [WalletManager](https://github.com/jarkillo/WalletManager)
+- [Autorun](https://github.com/jarkillo/Autorun)
+- [Datadiver](https://github.com/jarkillo/DataDiver)
 
 ¡Siéntete libre de explorar mis repositorios!
 
@@ -51,7 +54,9 @@ Here are some of the projects I've worked on:
 
 - [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
 - [Python Development](https://github.com/jarkillo/Desarrollo-en-Python/)
-- [BlockChain](https://github.com/jarkillo/WalletManager)
+- [WalletManager](https://github.com/jarkillo/WalletManager)
+- [Autorun](https://github.com/jarkillo/Autorun)
+- [Datadiver](https://github.com/jarkillo/DataDiver)
 
 Feel free to explore my repositories!
 

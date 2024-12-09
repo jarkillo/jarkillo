@@ -13,7 +13,7 @@ Soy un apasionado del marketing con formación en marketing e investigación de 
 ### 📊 Proyectos
 Estos son algunos de los proyectos en los que he trabajado:
 
-- [Heart Disease] (https://github.com/jarkillo/Missing-Keys-Heart-Disease)
+- [Heart Disease](https://github.com/jarkillo/Missing-Keys-Heart-Disease)
 - [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
 - [Desarrollo en Python](https://github.com/jarkillo/Desarrollo-en-Python/)
 - [WalletManager](https://github.com/jarkillo/WalletManager)

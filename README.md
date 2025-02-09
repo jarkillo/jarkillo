@@ -1,5 +1,5 @@
 # Jarkillo
-## Graduado en Marketing e Investigación de Mercados | Estudiante de Doble Máster en MBA y Análisis de Datos
+## Graduado en Marketing e Investigación de Mercados | Máster en MBA y Análisis de Datos
 
 ¡Bienvenido a mi perfil de GitHub! 👋
 
@@ -13,12 +13,13 @@ Soy un apasionado del marketing con formación en marketing e investigación de 
 ### 📊 Proyectos
 Estos son algunos de los proyectos en los que he trabajado:
 
+- [Detector de Phishing](https://github.com/jarkillo/Detector_Phishing)
 - [Heart Disease](https://github.com/jarkillo/Missing-Keys-Heart-Disease)
 - [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
 - [Desarrollo en Python](https://github.com/jarkillo/Desarrollo-en-Python/)
 - [WalletManager](https://github.com/jarkillo/WalletManager)
 - [Autorun](https://github.com/jarkillo/Autorun-for-Games)
-- [Datadiver](https://github.com/jarkillo/DataDiver)
+- [Moviepy Amd GPU Compatible](https://github.com/jarkillo/moviepy-gpu-amd)
 
 ¡Siéntete libre de explorar mis repositorios!
 

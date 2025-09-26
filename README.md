@@ -1,78 +1,63 @@
-# Jarkillo
-## Graduado en Marketing e Investigación de Mercados | Máster en MBA y Análisis de Datos
+# 👋 Hola, soy Manuel (Jarkillo)
 
-¡Bienvenido a mi perfil de GitHub! 👋
+🎓 MBA & Máster en Data Analytics  
+💼 Especialista en Datos, Machine Learning e Ingeniería de Datos  
+🚀 Más de 40 repositorios en GitHub (proyectos públicos y privados en Data, ML, Blockchain y Automatización)
 
-Soy un apasionado del marketing con formación en marketing e investigación de mercados, actualmente cursando un doble máster en MBA y Análisis de Datos en la Universidad Loyola.
+---
 
-### 🌐 Sobre Mí
-- 🎓 Graduado en Marketing e Investigación de Mercados por la Universidad de Sevilla.
-- 📚 Actualmente estudiando un doble máster en MBA y Análisis de Datos en la Universidad Loyola.
-- 💼 Buscando activamente oportunidades en los campos del marketing, análisis de datos y ciencia de datos.
+## 🌐 Sobre mí
+Soy un profesional con un perfil híbrido: **negocio + datos + tecnología**.  
+Actualmente gestiono la infraestructura de datos de un grupo hostelero con 12 negocios (discotecas, pubs, restaurantes y un hotel 5★), donde aplico **Python, SQL, Airflow y PostgreSQL** para transformar datos crudos en insights estratégicos.
 
-### 📊 Proyectos
-Estos son algunos de los proyectos en los que he trabajado:
+Mi experiencia combina:
+- **Data Engineering**: ETL pipelines, modelado en PostgreSQL, almacenamiento en S3, Airflow, Docker.  
+- **Data Analytics & BI**: Dashboards en Power BI y Streamlit, definición de KPIs financieros y operativos.  
+- **Machine Learning**: Modelos predictivos, clasificación, regresión, detección de anomalías y análisis de sentimiento.  
+- **Proyectos híbridos**: Blockchain (Ethereum), automatización de procesos, SEO & marketing digital.
 
-- [Detector de Phishing](https://github.com/jarkillo/Detector_Phishing)
-- [Heart Disease](https://github.com/jarkillo/Missing-Keys-Heart-Disease)
-- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
-- [Desarrollo en Python](https://github.com/jarkillo/Desarrollo-en-Python/)
-- [WalletManager](https://github.com/jarkillo/WalletManager)
-- [Autorun](https://github.com/jarkillo/Autorun-for-Games)
-- [Moviepy Amd GPU Compatible](https://github.com/jarkillo/moviepy-gpu-amd)
+---
 
-¡Siéntete libre de explorar mis repositorios!
+## 🚀 Proyectos Destacados
+- [**Detector de Phishing**](https://github.com/jarkillo/Detector_Phishing)  
+  Aplicación en Streamlit para detectar webs fraudulentas usando modelos de ML.  
+  *Stack*: Python, Scikit-learn, Streamlit, Pandas.
 
-### 🚀 Habilidades
-- Estrategia de Marketing
-- Análisis de Datos
-- Aprendizaje Automático (Machine Learning)
-- Investigación de Mercados
-- Visualización de Datos
-- Python, R, SQL
-- Control de Versiones con GitHub
+- [**Heart Disease Analysis**](https://github.com/jarkillo/Missing-Keys-Heart-Disease)  
+  Predicción de enfermedades cardíacas con algoritmos de ML (Logistic Regression, Random Forest, XGBoost).  
+  *Stack*: Python, Scikit-learn, Matplotlib, Pandas.
 
-### 📫 Contáctame
-- LinkedIn: [Manuel Lopez](https://www.linkedin.com/in/manuelinformatico/)
-- Email: manuellopezonline@gmail.com
+- [**WalletManager**](https://github.com/jarkillo/WalletManager)  
+  Gestor de wallet en Ethereum con FastAPI, React y Web3.  
+  *Stack*: Python, FastAPI, React, Web3, Docker.
 
-¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si tienes preguntas o propuestas de colaboración.
+- [**Librería Jarko**](https://github.com/jarkillo/libreria_jarko)  
+  Paquete en Python con funciones reutilizables para ETL, análisis y preprocesamiento.  
+  *Stack*: Python, Pandas, SQLAlchemy.
 
------------
-# Jarkillo
-## Marketing and Market Research Graduate | MBA & Data Analytics Double Master's Student
+- [**Moviepy GPU AMD**](https://github.com/jarkillo/moviepy-gpu-amd)  
+  Versión optimizada de MoviePy para aprovechar GPUs AMD con DirectML.  
+  *Stack*: Python, Video Processing, GPU Acceleration.
 
-Welcome to my GitHub profile! 👋
+---
 
-I'm a passionate marketer with a background in marketing and market research, currently pursuing a double master's degree in MBA and Data Analytics at Loyola University.
+## 📊 Otros repositorios interesantes
+- [Trabajo de Visualización](https://github.com/jarkillo/Trabajo-Visualizacion) → visualización de datos académica.  
+- [Autorun for Games](https://github.com/jarkillo/Autorun-for-Games) → automatización de teclas en juegos.  
+- [Data-Science](https://github.com/jarkillo/Data-Science) → varios notebooks de análisis exploratorio.  
+- [Desarrollo en Python](https://github.com/jarkillo/Desarrollo-en-Python) → colecciones de scripts en Python.  
 
-### 🌐 About Me
-- 🎓 Graduated from the University of Seville with a degree in Marketing and Market Research.
-- 📚 Currently studying MBA and Data Analytics at Loyola University.
-- 💼 Actively seeking opportunities in the marketing, data analytics, and data science fields.
+---
 
-### 📊 Projects
-Here are some of the projects I've worked on:
+## 🛠️ Stack Tecnológico
+**Lenguajes**: Python, R, SQL, JavaScript  
+**Machine Learning / IA**: Scikit-learn, Pandas, Numpy, TensorFlow (básico)  
+**Data Engineering**: Airflow, PostgreSQL, MinIO (S3), ETL pipelines, Docker  
+**BI / Visualización**: Power BI, Tableau, Streamlit  
+**Otros**: React, SEO, Git/GitHub, Jira, Marketing Analytics  
 
-- [Data Science](https://github.com/jarkillo/Data-Science/tree/master/)
-- [Python Development](https://github.com/jarkillo/Desarrollo-en-Python/)
-- [WalletManager](https://github.com/jarkillo/WalletManager)
-- [Autorun](https://github.com/jarkillo/Autorun-for-Games)
-- [Datadiver](https://github.com/jarkillo/DataDiver)
+---
 
-Feel free to explore my repositories!
-
-### 🚀 Skills
-- Marketing Strategy
-- Data Analysis
-- Machine Learning
-- Market Research
-- Data Visualization
-- Python, R, SQL
-- GitHub Version Control
-
-### 📫 Contact Me
-- LinkedIn: [Manuel Lopez](https://www.linkedin.com/in/manuelinformatico/)
-- Email: manuellopezonline@gmail.com
-
-Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or collaboration opportunities.
+## 📫 Contacto
+- [LinkedIn](https://linkedin.com/in/manuel-jose-lopez-munoz)  
+- Email: manuellopezonline@gmail.com  

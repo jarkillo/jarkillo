@@ -60,4 +60,4 @@ Mi experiencia combina:
 
 ## 📫 Contacto
 - [LinkedIn](https://linkedin.com/in/manuel-jose-lopez-munoz)  
-- Email: manuellopezonline@gmail.com  
+- Email: jarkoarenal@gmail.com 

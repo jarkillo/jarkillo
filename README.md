@@ -54,5 +54,5 @@ Mi experiencia incluye:
 
 ## 📫 Contacto
 - 🌐 [neuralflow.es](https://neuralflow.es)
-- 💼 [LinkedIn](https://linkedin.com/in/manuel-jose-lopez-munoz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manuel-lopez-data/)
 - 📧 jarkoarenal@gmail.com
